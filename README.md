@@ -15,7 +15,7 @@ would be applied to a different dataset.
   to 29 December 2024
 - 15,613 date columns; about 9% of cells contain measurements
 - Metadata columns: `name`, `Class`, `Desig_APA`, `Municip`
-- Source: [confirm before publishing; the file came without a data dictionary]
+- Data Source: Satellite-derived Shoreline Change in Portugal (1984-2024)
 
 ## Method
 

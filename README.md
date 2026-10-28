@@ -71,4 +71,3 @@ conda activate shoreline
 ```
 
 Place `PRT_SHODIST_all.csv` in a `data/` folder, then run the notebook from top to bottom.
->>>>>>> a39b1b9c7c7d6e12be0544decefe5b598dd1239b

@@ -4,7 +4,7 @@
 A small demonstration of a transect-based shoreline change analysis, built on a
 satellite-derived shoreline dataset for the Portuguese coast.
 
-**This is a test on Portuguese data, not England and Wales data.** It shows the
+**This is a test on Portuguese data.** It shows the
 method (chunked processing, per-transect trend fitting, coverage checks) that
 would be applied to a different dataset.
 
